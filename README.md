@@ -42,7 +42,7 @@ Démarrage rapide
 
 ## Exemple
 
-![cupp-example](![cupp-example] Screenshot/cupp-example.gif)
+![cupp-example] Screenshot/cupp-example.gif)
 
 ## License
 
