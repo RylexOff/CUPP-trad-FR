@@ -1,5 +1,6 @@
 ## A propos
 
+Traduction FR de CUPP
 
 La forme la plus courante d'authentification est la combinaison d'un nom d'utilisateur et d'un mot de passe ou d'une phrase de passe. Si les deux correspondent à des valeurs stockées dans une table stockée localement, l'utilisateur est authentifié pour une connexion. La force du mot de passe est une mesure de la difficulté à deviner ou à casser le mot de passe par des techniques cryptographiques ou des tests automatisés de valeurs alternatives basés sur des bibliothèques.
 
@@ -38,7 +39,7 @@ Démarrage rapide
 
 ## Configuration
 
-   CUPP has configuration file cupp.cfg with instructions.
+   CUPP a un fichier de configuration cupp.cfg avec des instructions.
 
 ## Exemple
 
