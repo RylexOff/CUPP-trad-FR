@@ -7,8 +7,6 @@ Un mot de passe faible peut être très court ou n'utiliser que des caractères 
 
 C'est la raison pour laquelle le CUPP est né, et il peut être utilisé dans des situations telles que les tests de pénétration ou les enquêtes criminelles.
 
-
-
 Besoins
 ------------
 
@@ -42,7 +40,7 @@ Démarrage rapide
 
    CUPP has configuration file cupp.cfg with instructions.
 
-## Example (Fast forwarded)
+## Exemple
 
 ![cupp-example](screenshots/cupp-example.gif)
 
